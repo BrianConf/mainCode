@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628149815 source:c:\users\user\downloads\test-ide-compiler-setup\test-ide-compiler-setup\test-setup.cpp
+	<iostream>
+	<string>
+	<memory>
+
